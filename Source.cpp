@@ -8,6 +8,7 @@ using namespace std;
 using namespace cv;
 
 //1280 x 1024 image size
+//Test comment
 
 //Load main image
 Mat img = imread("C:\\Users\\IASA-FRI\\Desktop\\Project1\\Project1\\test1.jpg");
